@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/L8XVjdV0/20230413-201028.png" alt="StringGen">
+  <img src="https://i.postimg.cc/L8XVjdV0/20230413-201028.jpg" alt="StringGen">
 </p>
 ## ʀᴇᴘᴏ sᴛᴀᴛs
 <a href="https://github.com/itsRomeo143/RomeoXString_Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsRomeo143&repo=RomeoXString_Bot&theme=chartreuse-dark"></a>
@@ -56,4 +56,4 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈](https://github.com/itsRomeo143)
+- » [◦•●◉✿MR ROMEO ✿◉●•◦](https://t.me/itsRomeo143)

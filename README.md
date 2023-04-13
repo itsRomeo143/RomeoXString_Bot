@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://telegra.ph/file/654ddaf472f18b799600b.jpg" alt="StringGen">
+  <img src="https://i.postimg.cc/L8XVjdV0/20230413-201028.png" alt="StringGen">
 </p>
 ## ʀᴇᴘᴏ sᴛᴀᴛs
-<a href="https://github.com/its-star-boi/StringGenBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=its-star-boi&repo=StringGenBot&theme=chartreuse-dark"></a>
+<a href="https://github.com/itsRomeo143/RomeoXString_Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsRomeo143&repo=RomeoXString_Bot&theme=chartreuse-dark"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/Its-star-boi"><img alt="Website" src="https://img.shields.io/badge/𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈-blue"></a>
+  <a href="https://github.com/itsromeo143"><img alt="Website" src="https://img.shields.io/badge/𝐑𝐎𝐌𝐄𝐎-blue"></a>
  
-[![Stars](https://img.shields.io/github/stars/Its-star-boi/StringGenBot?style=social)](https://github.com/Its-star-boi/StringGenBot/stargazers)
-  [![Forks](https://img.shields.io/github/forks/Its-star-boi/StringGenBot?style=social)](https://github.com/Its-star-boi/StringGenBot/fork)
+[![Stars](https://img.shields.io/github/stars/itsRomeo143/RomeoXString_Bot?style=social)](https://github.com/itsRomeo143/RomeoXString_Bot/stargazers)
+  [![Forks](https://img.shields.io/github/forks/itsRomeo143/RomeoXString_Bot?style=social)](https://github.com/itsRomeo143/RomeoXString_Bot/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
@@ -31,13 +31,13 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Its-star-boi/StringGenBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/itsRomeo143/RomeoXString_Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/STRING_SESSION_MAKER_BOT)
+  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/RomeoXStringBot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
@@ -56,7 +56,4 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈](https://github.com/Its-star-boi)
-- » [Shivang](https://github.com/ShivangKakkar)
-- » [Dan Tès](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
-- » [Lonami](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
+- » [𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈](https://github.com/itsRomeo143)
